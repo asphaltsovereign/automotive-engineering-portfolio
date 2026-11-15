@@ -14,7 +14,7 @@ Evidence-led work in vehicle-data software, embedded acquisition and powertrain 
 
 The repositories belong to the [asphaltsovereign engineering profile](https://github.com/asphaltsovereign). Source recovery and software verification are separate from physical vehicle validation.
 
-Read the [OctaneOS case study](case-studies/octaneos.md), [SAN-V1 case study](case-studies/san-v1.md), [powertrain case study](case-studies/r15v2.md), [public CV](cv/Wajhudeen_A_Engineering_CV.md) and [evidence standard](docs/evidence-standard.md).
+Read the [OctaneOS case study](case-studies/octaneos.md), [SAN-V1 case study](case-studies/san-v1.md), [powertrain case study](case-studies/r15v2.md) and [evidence standard](docs/evidence-standard.md).
 
 ## 1. Problem
 
@@ -49,7 +49,7 @@ OctaneOS demonstrates software/data reasoning; SAN-V1 exposes instrumentation an
 
 ## 6. Implemented
 
-This consolidation provides the index, public CV, three case studies, evidence rules and recovery/publication records. The website already has a separate existing repository, `Asphalt-Sovereign/digital-headquarters`; this work does not redeploy it.
+This consolidation provides the index, three case studies, evidence rules and recovery/publication records. The website already has a separate existing repository, `Asphalt-Sovereign/digital-headquarters`; this work does not redeploy it.
 
 ## 7. Testing
 
@@ -71,4 +71,4 @@ Produce one genuine, calibrated SAN bench session and trace it into a reproducib
 
 This repository is Markdown documentation: no install, hardware or software dependencies. View it on GitHub or locally. Demonstration screenshots and synthetic datasets are held in the relevant project repository with their provenance, rather than duplicated as new evidence.
 
-Contact: [asphaltsovereign.com](https://asphaltsovereign.com). The CV uses professional information and omits phone number, private location, identifiers and personal academic records.
+Contact: [asphaltsovereign.com](https://asphaltsovereign.com).
